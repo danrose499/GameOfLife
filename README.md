@@ -11,6 +11,8 @@ the board and pressing 'l' during the setup stage restores the most
 recently saved board. When ready to begin the game, the user must
 press enter.
 
+mGOL.asm is the assembly file with the code
+mGOL.com is compiled and can be emulated on DOSBox
 
 Daniel Rosenthal
 5/13/20
