@@ -12,6 +12,7 @@ recently saved board. When ready to begin the game, the user must
 press enter.
 
 mGOL.asm is the assembly file with the code
+
 mGOL.com is compiled and can be emulated on DOSBox
 
 Daniel Rosenthal
