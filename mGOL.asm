@@ -162,17 +162,9 @@ error:
 realstart:
 
 ; Game Instructions
-   ; mov ax, 1202h
-   ; mov bl, 30h
-   ; int 10h
-
-   ; mov ax, 0003h
-   ; int 10h
-
     mov ax, 1112h
     xor bx, bx
     int 10h
-
 
     mov dx, offset filename
     mov ax, 3c02h
