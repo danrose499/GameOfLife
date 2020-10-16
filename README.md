@@ -10,9 +10,12 @@ When the program begins, it displays some instructions on how to set up the boar
                  db "Enter any key to create the board:$"
 ```
 After the user reads the instructions and presses any key, an initial 50x80 board of dead cells is printed to video memory with a highlighted cell which represents the "current cell."
-![Empty Board](https://imgur.com/IiSkslP)
+
+![EmptyBoard](https://imgur.com/IiSkslP)
+
 After setting up the board, the user can press __enter__ and the game begins:
-![Mid-Game](https://imgur.com/WMdKDd0)
+
+![MidGame](https://imgur.com/WMdKDd0)
 
 #### Included Files
 * __mGOL.asm__ is the assembly file with the code
