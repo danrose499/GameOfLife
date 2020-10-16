@@ -13,7 +13,7 @@ After the user reads the instructions and presses any key, an initial 50x80 boar
 
 ![Empty Board](https://i.imgur.com/T2mZAQ5.png)
 
-After setting up the board, the user can press __enter__ and the game begins:
+After setting up the board, the user can press __enter__ and the game begins. Additionally, the user can save the current configuration of the board or load the most previous saved game board using __S__ and __L__ respectively.
 
 ![Mid Game](https://i.imgur.com/iIuljWM.png)
 
