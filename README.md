@@ -11,7 +11,7 @@ When the program begins, it displays some instructions on how to set up the boar
 ```
 After the user reads the instructions and presses any key, an initial 50x80 board of dead cells is printed to video memory with a highlighted cell which represents the "current cell."
 
-![EmptyBoard](https://imgur.com/IiSkslP)
+![EmptyBoard](https://imgur.com/a/qRNt8RU)
 
 After setting up the board, the user can press __enter__ and the game begins:
 
