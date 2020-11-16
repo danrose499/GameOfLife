@@ -22,4 +22,3 @@ After setting up the board, the user can press __enter__ and the game begins. Ad
 * __mGOL.com__ is compiled and can be emulated using DOSBox or a similar software
 
 Daniel Rosenthal
-5/13/20
