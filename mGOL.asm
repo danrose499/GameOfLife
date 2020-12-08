@@ -36,7 +36,7 @@ updateGrid:            ; PROC: Goes through each cell and calls updateCell proc 
 l1: add di, 2          ; jump to next row
     mov dx, cx
     mov cx, 78         ; 78 = Inner columns (80 Total)
-l2: CALL updateCell    ; CALLS function  to update grid2[si] based on grid1[si]
+l2: CALL updateCell    ; CALLS function to update grid2[si] based on grid1[si]
     inc di             ; Move to the next column
     loop l2
     mov cx, dx         ; Restores cx for l1 call
